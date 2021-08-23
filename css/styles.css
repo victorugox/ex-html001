@@ -11,6 +11,11 @@
     font-family: 'Roboto', sans-serif;
 }
 
+.content .brand:hover {
+    font-size: 29px;
+    transition: 0.5s ease;
+}
+
 :root {
     --orange: #f78b00;
     --blue: #00285f;
